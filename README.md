@@ -3,7 +3,7 @@
 
 Welcome to **Sonic Open Zone (2D)**! This is a browser-based, AI-assisted Sonic the Hedgehog fan game hosted directly on GitHub Pages. Run, jump, and dash through a recreated classic 2D environment.
 
-👉 **[Play the game live here!](https://github.io)** *(Replace this with your actual website link)*
+👉 **[Play the game live here!](https://github.io)**
 
 ---
 
